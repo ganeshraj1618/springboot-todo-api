@@ -1,4 +1,3 @@
-@"
 # Spring Boot Todo API
 
 A REST API for managing todos built with Spring Boot.
